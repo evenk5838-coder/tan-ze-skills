@@ -1,0 +1,4 @@
+interface:
+  display_name: "谭泽写作"
+  short_description: "融合真实材料、自然中文与个人笔风，分别处理行业体验和生活随笔"
+  default_prompt: "请用 $tan-ze-writing 根据我的素材写作或改稿，遵守本轮范围，写顺中文，保留有依据的个人判断。"

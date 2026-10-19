@@ -1,0 +1,82 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "535b0373501ee9ef2e47ad87ff23d86dbfb410665a1d67bfca3784e97998d6d0"
+  },
+  {
+    "path": "ACKNOWLEDGMENTS.md",
+    "sha256": "e7108ed603dd2efaa6a66000563ebc547a1498625acd1b220bd0c088f161fa45"
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "995dfc4ecf8e011ade98d9b811258bd7c5ff10558556dca3ee2d1b4d5b22d494"
+  },
+  {
+    "path": "README.md",
+    "sha256": "83b59a98fa76c2f8493f6b54ada48d1c89b3de748eb54f8359e228cec45a0c29"
+  },
+  {
+    "path": "skills/project-initiation-report/SKILL.md",
+    "sha256": "26e3988b22342529ea96fafb3ba674b088e34cd1091704326ffdf69dc3ecb787"
+  },
+  {
+    "path": "skills/project-initiation-report/agents/openai.yaml",
+    "sha256": "9ba25e2f8c02921b2bfc02975b8bc92983327cf0bb3cab50685061e142c2a2be"
+  },
+  {
+    "path": "skills/project-initiation-report/checklist.md",
+    "sha256": "c8c951cd35ed3514741236a9d6ae8ffb3950fab85b5a346446e48f1206d823a0"
+  },
+  {
+    "path": "skills/project-initiation-report/methods.md",
+    "sha256": "d831af3c8638a76750a389ad9255e64dd5b165b2870b72cb40aed49803888c24"
+  },
+  {
+    "path": "skills/project-initiation-report/references/revision-method.md",
+    "sha256": "52dc3859b5a7784e74e52e8a8119739248c38cea1e05c284da7153f0ae05f0b7"
+  },
+  {
+    "path": "skills/project-initiation-report/report-template.md",
+    "sha256": "2c3735d001877b3d8dd75e8c44a5b14a4adcf525da77e3499e229b6319ed27a8"
+  },
+  {
+    "path": "skills/project-initiation-report/styles.md",
+    "sha256": "aa4725261f1d3342f6ded854989de859e5dc85025178cf6d2f77413875047f1b"
+  },
+  {
+    "path": "skills/tan-ze-writing/SKILL.md",
+    "sha256": "c047587f76319835894aae227e1fc2378b7d38adbf6d1ac7df2ef94d338d0855"
+  },
+  {
+    "path": "skills/tan-ze-writing/agents/openai.yaml",
+    "sha256": "a7cd75beef71ca7ef638108a27f456737eed44dee7b45b4b7491136cfedd934c"
+  },
+  {
+    "path": "skills/tan-ze-writing/references/editing-guide.md",
+    "sha256": "e3e5afd0a287331611dbe3c70634133da761d01c3af852dc22599a9433a14073"
+  },
+  {
+    "path": "skills/tan-ze-writing/references/industry.md",
+    "sha256": "b72edb3716898acda1e0edfc1567d231c8b24d76c508039eccd10a0014b1d932"
+  },
+  {
+    "path": "skills/tan-ze-writing/references/personal.md",
+    "sha256": "d58fa4a51c6e17557f737b9504fd4543241486f31cdf59067ca6103eaa89dc50"
+  },
+  {
+    "path": "skills/tan-ze-writing/references/style-guide.md",
+    "sha256": "654730827902ba692cdac0f32ed9d24a95ce302bd339a652e108cf04cb8ca4a5"
+  },
+  {
+    "path": "skills/ze-essays/SKILL.md",
+    "sha256": "1e0e3bb9650b36f58cae4021bf9b76c333b30998e52e04bdc0f9f2ed95223cae"
+  },
+  {
+    "path": "skills/ze-essays/agents/openai.yaml",
+    "sha256": "3ee1412a419a22500d61f603f906712abcadff8f061ff61414d2bafe9785fcb3"
+  },
+  {
+    "path": "skills/ze-essays/references/style-guide.md",
+    "sha256": "2a72d80eaeb6fe317f6c869330725838b803ae817c3bf8790d867bf5104d9baf"
+  }
+]

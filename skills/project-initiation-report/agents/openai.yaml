@@ -1,0 +1,6 @@
+interface:
+  display_name: "立项报告"
+  short_description: "先明确问题和证据，再梳理竞品、优先级、MVP、投入与风险，制作 AI 产品立项报告"
+  default_prompt: "请用 $project-initiation-report 和我明确目标、材料与范围，再制作有来源和判断的立项报告。"
+policy:
+  allow_implicit_invocation: false
