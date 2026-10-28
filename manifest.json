@@ -5,7 +5,7 @@
   },
   {
     "path": "ACKNOWLEDGMENTS.md",
-    "sha256": "e7108ed603dd2efaa6a66000563ebc547a1498625acd1b220bd0c088f161fa45"
+    "sha256": "50072f0537169f690b6e5af7806e89c3f4f224c683e6d5062c7dcb8ad1322405"
   },
   {
     "path": "LICENSE",
@@ -13,7 +13,23 @@
   },
   {
     "path": "README.md",
-    "sha256": "83b59a98fa76c2f8493f6b54ada48d1c89b3de748eb54f8359e228cec45a0c29"
+    "sha256": "3052a9ed13face460ee27c3a9ce12723cd0048e337149fabbb042eb688c380af"
+  },
+  {
+    "path": "skills/note-assistant/SKILL.md",
+    "sha256": "521484dd36bdb1247a80eb323feb0fdcc6d1a26b1ed85f4ee63e1c0d40152d31"
+  },
+  {
+    "path": "skills/note-assistant/agents/openai.yaml",
+    "sha256": "72b76abe143c16413469e0ee14df70f08c65d5ab60e7ef615205c255ff9b1982"
+  },
+  {
+    "path": "skills/note-assistant/references/delivery.md",
+    "sha256": "1719f420832ce968b59074355375f86a09be58bd66fb3e8a0c800c4f0ee559b2"
+  },
+  {
+    "path": "skills/note-assistant/references/note-patterns.md",
+    "sha256": "41b2c1729e9f860007c7b090b78ea91ef133f34e1f13c100aefc585cbbb15fee"
   },
   {
     "path": "skills/project-initiation-report/SKILL.md",

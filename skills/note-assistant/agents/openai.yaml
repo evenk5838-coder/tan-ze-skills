@@ -1,0 +1,4 @@
+interface:
+  display_name: "笔记助手"
+  short_description: "将课堂录音与个人摘录整理成自然清晰的笔记，审阅确认后归入既有知识库"
+  default_prompt: "请用 $note-assistant 整理这些课堂材料，保留我的原话高亮，先交我审阅，确认后再入库。"
